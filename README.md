@@ -1,2 +1,2 @@
 # cloneTest
-insert one line & simple.
+insert one line and simple.
